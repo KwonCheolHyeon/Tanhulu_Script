@@ -1,0 +1,6 @@
+IngredientChange	Grape	.	0	FALSE
+IngredientChange	Apple	.	0	FALSE
+IngredientChange	Mango	.	0	FALSE
+Ingredient	Apple1	SweetApple	100	FALSE
+Ingredient	Apple2	SourApple	200	FALSE
+Ingredient	Apple3	NormalApple	300	FALSE
